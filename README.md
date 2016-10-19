@@ -8,8 +8,10 @@ This list includes some of the books and videos I have read and watched about we
 Each category is organized by topics, so hopefully you can find something useful !
 
 > **NOTE**:
-1. This is Work-In-Progress.
-2. I've added emoji's beside books and videos you must read and watch. :zap:
+>
+> - This is Work-In-Progress.
+> 
+> - I've added emoji's beside books and videos you must read and watch. :zap:
 
 Table of Contents
 ---------
@@ -27,10 +29,15 @@ Legend
 ---------
 
 :baby:    - Beginner Friendly
+
 :star2:   - Highly Recommended
+
 :ok_hand: - Recommended
+
 :bulb:    - Good for Reference
+
 :book:    - Currently Reading
+
 :gift_heart: - Free Online
 
 Books
@@ -128,7 +135,8 @@ Videos
     - [Hardcore Functional Programming in JavaScript](https://frontendmasters.com/courses/functional-javascript/) :ok_hand:
     - [Asynchronous Programming in JavaScript (with Rx.js Observables)](https://frontendmasters.com/courses/asynchronous-javascript/) :star2:- Node.js
     - [API Design in Node.js (using Express & Mongo)](https://frontendmasters.com/courses/api-design-nodejs/) :ok_hand:
-    - [React.js (with Introduction to Flux Architecture)](https://frontendmasters.com/courses/react/- [Responsive Web Design](https://frontendmasters.com/courses/responsive-web-design/)
+    - [React.js (with Introduction to Flux Architecture)](https://frontendmasters.com/courses/react/)
+    - [Responsive Web Design](https://frontendmasters.com/courses/responsive-web-design/)
 
 #### Pluralsight
 
