@@ -133,9 +133,12 @@ Videos
     - [Functional-Lite JavaScript](https://frontendmasters.com/courses/functional-js-lite/) :star2:
     - [Rethinking Asynchronous JavaScript](https://frontendmasters.com/courses/rethinking-async-js/) :star2:
     - [Hardcore Functional Programming in JavaScript](https://frontendmasters.com/courses/functional-javascript/) :ok_hand:
-    - [Asynchronous Programming in JavaScript (with Rx.js Observables)](https://frontendmasters.com/courses/asynchronous-javascript/) :star2:- Node.js
+    - [Asynchronous Programming in JavaScript (with Rx.js Observables)](https://frontendmasters.com/courses/asynchronous-javascript/) :star2:
+- Node.js
     - [API Design in Node.js (using Express & Mongo)](https://frontendmasters.com/courses/api-design-nodejs/) :ok_hand:
+- React.js
     - [React.js (with Introduction to Flux Architecture)](https://frontendmasters.com/courses/react/)
+- HTML
     - [Responsive Web Design](https://frontendmasters.com/courses/responsive-web-design/)
 
 #### Pluralsight
