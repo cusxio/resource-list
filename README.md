@@ -16,7 +16,7 @@ Each category is organized by topics, so hopefully you can find something useful
 
 1. [Legend](#legend)
 2. [Books](#books)
-    - [In Progress/ Backlog](#in-progress-backlog)
+    - [In Progress/ Backlog](#in-progress--backlog)
     - [Completed](#completed)
 3. [Videos](#videos)
     - [Courses](#courses)
