@@ -1,5 +1,4 @@
-Resource List
-==============
+# Resource List
 
 A Web Development Resource List.
 
@@ -10,11 +9,10 @@ Each category is organized by topics, so hopefully you can find something useful
 > **NOTE**:
 >
 > - This is Work-In-Progress.
-> 
+>
 > - I've added emoji's beside books and videos you must read and watch. :zap:
 
-Table of Contents
----------
+# Table of Contents
 
 1. [Legend](#legend)
 2. [Books](#books)
@@ -23,10 +21,9 @@ Table of Contents
 3. [Videos](#videos)
     - [Courses](#courses)
     - Conference Talks [Soon™]
-4. Links [Soon™]
+4. [Links](#links)
 
-Legend
----------
+# Legend
 
 :baby:    - Beginner Friendly
 
@@ -40,8 +37,7 @@ Legend
 
 :gift_heart: - Free Online
 
-Books
------
+# Books
 
 ## In Progress / Backlog
 
@@ -112,8 +108,7 @@ Books
 
 - [Amazon Web Services in Action](https://www.manning.com/books/amazon-web-services-in-action)
 
-Videos
------
+# Videos
 
 ## Courses
 
@@ -160,8 +155,7 @@ Videos
 - AWS
     - [Amazon Web Services (AWS) Fundamentals for System Administrators](https://www.pluralsight.com/courses/aws-system-admin-fundamentals) :ok_hand: :gift_heart:
 
-Links
------
+# Links
 
 ## GraphQL
 
