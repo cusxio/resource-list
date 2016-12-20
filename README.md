@@ -20,7 +20,7 @@ Each category is organized by topics, so hopefully you can find something useful
     - [Completed](#completed)
 3. [Videos](#videos)
     - [Courses](#courses)
-    - Conference Talks [Soon™]
+    - Conference Talks [#conference-talks]
 4. [Links](#links)
 
 # Legend
@@ -154,6 +154,12 @@ Each category is organized by topics, so hopefully you can find something useful
 
 - AWS
     - [Amazon Web Services (AWS) Fundamentals for System Administrators](https://www.pluralsight.com/courses/aws-system-admin-fundamentals) :ok_hand: :gift_heart:
+
+## Conference Talks
+
+- Go
+    - [Concurrency is not parallelism](https://blog.golang.org/concurrency-is-not-parallelism) :star2:
+
 
 # Links
 
