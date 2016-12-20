@@ -20,7 +20,7 @@ Each category is organized by topics, so hopefully you can find something useful
     - [Completed](#completed)
 3. [Videos](#videos)
     - [Courses](#courses)
-    - Conference Talks [#conference-talks]
+    - [Conference Talks](#conference-talks)
 4. [Links](#links)
 
 # Legend
