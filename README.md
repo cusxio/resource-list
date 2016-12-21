@@ -62,6 +62,10 @@ Each category is organized by topics, so hopefully you can find something useful
 - [Computer Networks](https://www.amazon.com/gp/product/0132126958/ref=pd_sbs_14_t_0?ie=UTF8&psc=1&refRID=2ACGY9DSPYH05BAB0JD5) :book:
 - [High Performance Browser Networking](https://hpbn.co/) :book: :gift_heart:
 
+#### Go
+
+- [Go in Action](https://www.manning.com/books/go-in-action) :book:
+
 #### Docker
 
 - [Docker in Action](https://www.manning.com/books/docker-in-action)
